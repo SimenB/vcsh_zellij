@@ -1,3 +1,5 @@
 *
 !/.config/zellij/config.kdl
+!/.config/zellij/layouts/default.kdl
+!/.config/zellij/plugins/zellij-datetime.wasm
 !/.gitignore.d/zellij
